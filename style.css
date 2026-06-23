@@ -1,0 +1,17 @@
+*{
+    text-align: center;
+}
+h1{
+    font-size:42px;
+}
+#btn{
+    height:30px;
+    width:150px;
+    border-radius: 10px;
+    margin:10px;
+}
+#counter{
+    padding:30px;
+    font-weight: bold;
+    font-size: 20px;
+}
